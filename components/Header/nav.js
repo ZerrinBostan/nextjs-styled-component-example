@@ -8,7 +8,7 @@ const Header = styled.div`
  flex-direction: row;
  justify-content: space-between;
  align-items: center;
- padding:0.5rem 0.3rem;
+ padding:1rem 0.5rem;
 `;
 
 const NavTitle = styled.h1`
